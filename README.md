@@ -8,9 +8,9 @@ Soy un apasionado de la tecnología, la educación y el análisis de datos. Mi m
 - 🔍 Enfoque en análisis de datos, modelado predictivo y visualización interactiva.  
 
 ## 💻 Tecnologías que manejo:
-- **Lenguajes de programación:** Python, SQL, R  
-- **Bases de datos:** SQL Server, PostgreSQL  
-- **Herramientas de BI:** Power BI, Tableau, Excel avanzado  
+- **Lenguajes de programación:** Python, SQL 
+- **Bases de datos:** SQL Server, Big Data 
+- **Herramientas de BI:** Power BI, Power Query, Excel avanzado  
 - **Machine Learning:** Scikit-learn, Pandas, NumPy  
 
 ## 🌍 Conéctate conmigo:
